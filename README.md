@@ -1,6 +1,6 @@
 # Shop Assistant
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1Ywjb9TTEPUX0u5iQ92O9btvTdn-7dKlE/view?usp=sharing)
+[![Watch the video]](https://drive.google.com/file/d/1Ywjb9TTEPUX0u5iQ92O9btvTdn-7dKlE/view?usp=sharing)
 
 # WiscShop API
 
