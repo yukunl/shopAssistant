@@ -1,5 +1,6 @@
-# Demo
-<iframe src="https://drive.google.com/file/d/1Ywjb9TTEPUX0u5iQ92O9btvTdn-7dKlE/preview" width="640" height="480"></iframe>
+# Shop Assistant
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 # WiscShop API
 
