@@ -1,5 +1,5 @@
 # Shop Assistant
-[Demonstration](https://drive.google.com/file/d/1Ywjb9TTEPUX0u5iQ92O9btvTdn-7dKlE/view?usp=sharing)
+[Demonstration video on Google Drive](https://drive.google.com/file/d/1Ywjb9TTEPUX0u5iQ92O9btvTdn-7dKlE/view?usp=sharing)
 
 # WiscShop API
 
